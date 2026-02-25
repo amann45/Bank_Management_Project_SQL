@@ -5,7 +5,7 @@ The Bank Management System is a relational database project developed to demonst
 
 - Customer management
 - Account management
-- Transaction records
+- BankTransaction records
 - Loan management
 
 The project is designed with 4 tables and includes 5 records per table, as per academic requirements.
@@ -28,7 +28,7 @@ The database is structured using Primary Keys and Foreign Keys to maintain refer
 
 ### 🛠️ Technologies Used
 
-- SQL (Ms-Sql SSMS)
+- SQL (MS-SQL SSMS)
 - Relational Database Concepts
 - ER Modeling
 
