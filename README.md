@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (DBMS Project)
+# 🏦 Bank Management System
 ## 📌 Project Overview
 
 The Bank Management System is a relational database project developed to demonstrate core DBMS concepts using SQL. This system manages basic banking operations such as:
