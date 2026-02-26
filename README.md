@@ -78,6 +78,7 @@ Used to retrieve related data from multiple tables.
 - SUM()
 - AVG()
 - GROUP BY
+  
 Used for financial analysis and data summarization.
 
 ### ✅ 3. Subqueries
