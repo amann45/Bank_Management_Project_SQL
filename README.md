@@ -123,6 +123,6 @@ Through this project, we learned:
 - Transaction control
 - Practical implementation of DBMS concepts
 
-## 📌 Conclusion
+## 🎯 Conclusion
 
 This project demonstrates how a relational database system can efficiently manage banking operations. It highlights the importance of proper database design, normalization, and transaction management in real-world applications.
